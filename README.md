@@ -37,25 +37,6 @@ I'm a learner at **ALX Software Engineering** program, currently mastering **Fro
 
 ---
 
-## 📈 **My Projects**
-
-### 1. **[Project Name: Responsive Web App]**
-   - **Description:** A responsive web application that works seamlessly across devices.
-   - **Skills Used:** HTML, CSS, JavaScript, React.js
-   - **GitHub Link:** [Project Repository](#)
-
-### 2. **[Project Name: Interactive UI Components]**
-   - **Description:** A set of interactive UI components built with **React.js** to enhance the user experience.
-   - **Skills Used:** React.js, JavaScript, Styled-components
-   - **GitHub Link:** [Project Repository](#)
-
-### 3. **[Project Name: Cross-Browser Compatibility Web Page]**
-   - **Description:** A landing page designed with a focus on **cross-browser compatibility** and accessibility.
-   - **Skills Used:** HTML, CSS, JavaScript, Testing
-   - **GitHub Link:** [Project Repository](#)
-
----
-
 ## 🌱 **What I'm Learning Right Now**
 - Building advanced **frontend web applications**
 - Learning **Data Science** and **Machine Learning**
