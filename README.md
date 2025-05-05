@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a learner at **ALX Software Engineering** program, currently mastering **Frontend Web Development** with the ultimate goal of evolving into a skilled **Software Engineer**, **Data Scientist**, and **Cybersecurity Specialist**. Technology and art are my passions, and I am driven by curiosity, resilience, and a strong desire to build **secure**, **intelligent**, and **user-centered** digital experiences.
+I'm a learner at **ALX Software Engineering** program, currently mastering **Frontend Web Development** with the ultimate goal of evolving into a skilled **Software Engineer**. Technology and art are my passions, and I am driven by curiosity, resilience, and a strong desire to build **secure**, **intelligent**, and **user-centered** digital experiences.
 
 ### 🎯 My Goals
 - **Build a strong foundation in frontend web development**
@@ -11,7 +11,6 @@ I'm a learner at **ALX Software Engineering** program, currently mastering **Fro
 - **Collaborate with designers to bring their visions to life**
 - **Implement frontend logic and functionality**
 - **Ensure accessibility and cross-browser compatibility**
-- **Keep improving my skills in data science and cybersecurity**
 
 ---
 
@@ -23,17 +22,11 @@ I'm a learner at **ALX Software Engineering** program, currently mastering **Fro
     - Responsive Web Design
     - Tailwind CSS, Bootstrap
     - Cross-Browser Compatibility
-- **Backend Technologies:** 
-    - Node.js, Express.js
-    - MongoDB, SQL
 - **Version Control:** 
     - Git, GitHub
 - **Tools & Frameworks:** 
     - Figma, Adobe XD
-    - Docker, CI/CD
-- **Cybersecurity:**
-    - Basic understanding of security protocols and measures
-    - Working on securing applications and APIs
+    - Nextjs, Vite
 
 ---
 
